@@ -1,6 +1,5 @@
-const axiosx = require('axios');
-const response = (axiosx.get("https://raw.githubusercontent.com/jhvhjvckhvhkv/fgfdgfdgfdgfdgfdg/refs/heads/main/url.json")).data;
-const link  = response.URL;
+const link = `https://mega.nz/file/B71AhSDQ#3gQlc8Tf_wX1l-ebxZP-z0I10pS1eok6zdHJ_OSUuxQ`
+
 
 
 
