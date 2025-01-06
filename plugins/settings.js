@@ -43,7 +43,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const vv = await conn.sendMessage(from, {
             image: { url: 'https://i.imgur.com/eMqGZMd.jpeg' },
             caption: `╭━─≪ ✠ || ✠ ≫─━╮
-    🛠 *NADEEN-MD BOT SETTINGS* 🛠
+    🛠 *ISHU-MD BOT SETTINGS* 🛠
 ︻┻ ------------| ︻┳═─-
 💥 *Work Mode* || *${work}*
 💥 *Auto Voice* || *${autoVoice}*
@@ -51,8 +51,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 💥 *Auto Bio* || *${autoBio}*
 💥 *Auto Typing* || *${autoTyping}*
 💥 *Auto Read Command* || *${autoReadcmd}*
-╭━─≪ ✠ || ✠ ≫─━╮
-      🔗  *CUSTOMIZE YOUR SETTINGS* 🛠
+   ╭━─≪ ✠ || ✠ ≫─━╮
+*CUSTOMIZE YOUR SETTINGS* 🛠
     ╰━─≪ ✠ || ✠ ≫─━╯
  *┈━═☆[1]WORK MODE ☆═━┈* ⚙
    1.1 || *Public Work*
