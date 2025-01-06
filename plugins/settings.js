@@ -43,7 +43,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const vv = await conn.sendMessage(from, {
             image: { url: 'https://i.imgur.com/eMqGZMd.jpeg' },
             caption: `*╔═════ °❀•°✮°•❀°═════╗* 
+====================
 🛠 *BOT SETTINGS* 🛠
+====================
 ✂ *Work Mode* || *${work}*
 ✂ *Auto Voice* || *${autoVoice}*
 ✂ *Auto Status* || *${autoStatus}*
@@ -55,32 +57,32 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
  *CUSTOMIZE YOUR SETTINGS* 
    ╰━─≪ ✠ || ✠ ≫─━╯
 
- *┈━═☆`[1] WORK MODE` ☆═━┈* 
+ *┈━═☆ WORK MODE ☆═━┈* 
  *》*  1.1 || *Public Work*
  *》*  1.2 || *Private Work*
  *》*  1.3 || *Group Only*
 
- *┈━═☆ `[2] AUTO VOICE` ☆═━┈* 
+ *┈━═☆  AUTO VOICE ☆═━┈* 
 *》* 2.1 || *Auto Voice On*
 *》* 2.2 || *Auto Voice Off*
 
- *┈━═☆ `[3] AUTO REACT` ☆═━┈* 
+ *┈━═☆  AUTO REACT ☆═━┈* 
 *》* 3.1 || *Auto Read Status On*
 *》*  3.2 || *Auto Read Status Off*
 
- *┈━═☆ `[4] AUTO STICKER` ☆═━┈* 
+ *┈━═☆ AUTO STICKER ☆═━┈* 
 *》*  4.1 || *Auto Bio On*
 *》*  4.2 ||*Auto Bio Off*
 
- *┈━═☆ `[5] AUTO REPLY` ☆═━┈* 
+ *┈━═☆ AUTO REPLY ☆═━┈* 
 *》*  5.1 || *Activate News Service*
 *》* 5.2 || *Deactivate News Service*
 
- *┈━═☆ `[6] WELCOME` ☆═━┈* 
+ *┈━═☆ WELCOME ☆═━┈* 
 *》*  6.1 || *Activate Auto COMETyping*
 *》* 6.2 || *Deactivate Auto Typing*
 
- *┈━═☆ `[7] STATUS SEND MSG` ☆═━┈* 
+ *┈━═☆ STATUS SEND MSG ☆═━┈* 
 *》* 7.1 || * Auto Status Send Msg true*
 *》* 7.2 ||  *Auto Status Send Msg false*
 ╚══════✮❁•°❀°•❁✮══════╝
