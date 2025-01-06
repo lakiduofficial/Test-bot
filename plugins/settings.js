@@ -42,49 +42,48 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         const vv = await conn.sendMessage(from, {
             image: { url: 'https://i.imgur.com/eMqGZMd.jpeg' },
-            caption: `╭━─≪ ✠ || ✠ ≫─━╮
-    🛠 *ISHU-MD BOT SETTINGS* 🛠
-︻┻ ------------| ︻┳═─-
-💥 *Work Mode* || *${work}*
-💥 *Auto Voice* || *${autoVoice}*
-💥 *Auto Status* || *${autoStatus}*
-💥 *Auto Sticker* || *${autoBio}*
-💥 *Auto React* || *${autoTyping}*
-💥 *Auto Reply* || *${autoReadcmd}*
+            caption: `*╔═════ °❀•°✮SETTINGS°•❀°═════╗* 
+
+✂ *Work Mode* || *${work}*
+✂ *Auto Voice* || *${autoVoice}*
+✂ *Auto Status* || *${autoStatus}*
+✂ *Auto Sticker* || *${autoBio}*
+✂ *Auto React* || *${autoTyping}*
+✂ *Auto Reply* || *${autoReadcmd}*
 
    ╭━─≪ ✠ || ✠ ≫─━╮
-*CUSTOMIZE YOUR SETTINGS* 🛠
-    ╰━─≪ ✠ || ✠ ≫─━╯
+ *CUSTOMIZE YOUR SETTINGS* 
+   ╰━─≪ ✠ || ✠ ≫─━╯
 
- *┈━═☆[1]WORK MODE ☆═━┈* ⚙
-   1.1 || *Public Work*
-   1.2 || *Private Work*
-   1.3 || *Group Only*
+ *┈━═☆`[1] WORK MODE` ☆═━┈* 
+ *》*  1.1 || *Public Work*
+ *》*  1.2 || *Private Work*
+ *》*  1.3 || *Group Only*
 
- *┈━═☆[2] AUTO VOICE ☆═━┈* ⚙
- 2.1 || *Auto Voice On*
-  2.2 || *Auto Voice Off*
+ *┈━═☆ `[2] AUTO VOICE` ☆═━┈* 
+*》* 2.1 || *Auto Voice On*
+*》* 2.2 || *Auto Voice Off*
 
- *┈━═☆[3] AUTO REACT ☆═━┈* ⚙
-  3.1 || *Auto Read Status On*
-  3.2 || *Auto Read Status Off*
+ *┈━═☆ `[3] AUTO REACT` ☆═━┈* 
+*》* 3.1 || *Auto Read Status On*
+*》*  3.2 || *Auto Read Status Off*
 
- *┈━═☆[4] AUTO STICKER ☆═━┈* ⚙
-  4.1 || *Auto Bio On*
-  4.2 ||*Auto Bio Off*
+ *┈━═☆ `[4] AUTO STICKER` ☆═━┈* 
+*》*  4.1 || *Auto Bio On*
+*》*  4.2 ||*Auto Bio Off*
 
- *┈━═☆[5] AUTO REPLY ☆═━┈* ⚙
-  5.1 || *Activate News Service*
-  5.2 || *Deactivate News Service*
+ *┈━═☆ `[5] AUTO REPLY` ☆═━┈* 
+*》*  5.1 || *Activate News Service*
+*》* 5.2 || *Deactivate News Service*
 
- *┈━═☆[6]  WELCOME ☆═━┈* ⚙
-  6.1 || *Activate Auto COMETyping*
-  6.2 || *Deactivate Auto Typing*
+ *┈━═☆ `[6] WELCOME` ☆═━┈* 
+*》*  6.1 || *Activate Auto COMETyping*
+*》* 6.2 || *Deactivate Auto Typing*
 
- *┈━═☆[7] STATUS SEND MSG ☆═━┈* ⚙
-  7.1 || *Activate Auto Command Read*
- 7.2 ||  *Deactivate Auto Command Read*
-╰━─≪ ✠ || ✠ ≫─━╯
+ *┈━═☆ `[7] STATUS SEND MSG` ☆═━┈* 
+*》* 7.1 || * Auto Status Send Msg true*
+*》* 7.2 ||  *Auto Status Send Msg false*
+╚══════✮❁•°❀°•❁✮══════╝
 
 > *ℂℝ𝔼𝔸𝕋𝔼𝔻 𝔹𝕐 𝕃𝔸𝕂𝕊𝕀𝔻𝕌 ℕ𝕀𝕄𝕊𝔸ℝ𝔸*
 `
