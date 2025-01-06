@@ -29,7 +29,7 @@ async (conn, mek, m, { from, quoted }) => {
 * Date - ${news.time || 'Not available'}
 * Link - ${news.new_url || 'Not available'}
 
-⚡ Powered By QUEEN ISHU MD
+⚡ Powered By ${news.powered_by || 'Unknown'}
         `;
 
         // Send the news as a message
