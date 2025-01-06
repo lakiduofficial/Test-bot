@@ -29,7 +29,7 @@ async (conn, mek, m, { from, quoted }) => {
 * Date - ${news.time || 'Not available'}
 * Link - ${news.new_url || 'Not available'}
 
-⚡ Powered By ${news.powered_by || 'laksidu'}
+⚡ Powered By laksidu Nimsara
         `;
 
         // Send the news as a message
