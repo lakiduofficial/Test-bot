@@ -42,8 +42,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         const vv = await conn.sendMessage(from, {
             image: { url: 'https://i.imgur.com/eMqGZMd.jpeg' },
-            caption: `*╔═════ °❀•°✮SETTINGS°•❀°═════╗* 
-
+            caption: `*╔═════ °❀•°✮°•❀°═════╗* 
+🛠 *BOT SETTINGS* 🛠
 ✂ *Work Mode* || *${work}*
 ✂ *Auto Voice* || *${autoVoice}*
 ✂ *Auto Status* || *${autoStatus}*
