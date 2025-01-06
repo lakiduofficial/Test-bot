@@ -3,8 +3,8 @@ const { cmd, commands } = require('../command');
 const EnvVar = require('../lib/mongodbenv');
 
 cmd({
-    pattern: "settings",
-    alias: ["setting","set"],
+    pattern: "setting",
+    alias: ["settings","set"],
     desc: "Check bot online or not.",
     category: "main",
     react: "⚙️",
@@ -45,7 +45,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const vv = await conn.sendMessage(from, {
             image: { url: 'https://files.catbox.moe/7exz93.png' },
             caption: `╭━─≪ ✠ || ✠ ≫─━╮
-  🛠 *NADEEN-MD BOT SETTINGS* 🛠
+  🛠 *QUEEN_ISHU BOT SETTINGS* 🛠
 ▄︻┻ ------------| ︻┳═─-
 💥 *Work Mode* || *${work}*
 💥 *Auto Voice* || *${autoVoice}*
@@ -67,24 +67,24 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
      2.2 || *Auto Voice Off*
 
   *┈━═☆[3] AUTO STATUS SEEN ☆═━┈* ⚙
-     3.1 || *Auto Read Status On*
-     3.2 || *Auto Read Status Off*
+     3.1 || *welcome On*
+     3.2 || *welcome Off*
 
   *┈━═☆[4] AUTO BIO ☆═━┈* ⚙
-     4.1 || *Auto Bio On*
-     4.2 ||*Auto Bio Off*
+     4.1 || *Auto Reply On*
+     4.2 ||*Auto Reply Off*
 
    *┈━═☆[5] AUTO NEWS SERVICE ☆═━┈* ⚙
-     5.1 || *Activate News Service*
-     5.2 || *Deactivate News Service*
+     5.1 || *Auto Sticker on*
+     5.2 || *Auto Sticker off*
 
   *┈━═☆[6] AUTO TYPING ☆═━┈* ⚙
-     6.1 || *Activate Auto Typing*
-     6.2 || *Deactivate Auto Typing*
+     6.1 || *Auto React on*
+     6.2 || *Auto React off*
 
  *┈━═☆[7] AUTO COMMAND READ ☆═━┈* ⚙
-      7.1 || *Activate Auto Command Read*
-      7.2 || *Deactivate Auto Command Read*
+      7.1 || *Auto Status Send Msg on*
+      7.2 || *Auto Status Send Msg off*
 ╰━─≪ ✠ || ✠ ≫─━╯
 
 > ℂℝ𝔼𝔸𝕋𝔼𝔻 𝔹𝕐 𝕃𝔸𝕂𝕊𝕀𝔻𝕌 ℕ𝕀𝕄𝕊𝔸ℝ𝔸
@@ -146,19 +146,19 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     reply(".autosticker false");
                     break;
                     case '6.1':      
-                        reply(".update AUTO_TYPING:true");
+                        reply(".autoreact true");
                         reply(".restart");
                         break;
                     case '6.2':   
-                        reply(".update AUTO_TYPING:false");
+                        reply(".autoreact false");
                         reply(".restart");
                     break;
                     case '7.1': 
-                        reply(".update AUTO_READ_CMD:true");
+                        reply(".statesmsgsend true");
                         reply(".restart");
                     break;
                     case '7.2':   
-                        reply(".update AUTO_READ_CMD:false");
+                        reply(".statesmsgsend false");
                         reply(".restart");
                     
                         break;
