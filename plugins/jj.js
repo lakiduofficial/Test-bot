@@ -34,12 +34,12 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 work = '𝚄𝙽𝙺𝙾𝚆𝙽🛑';
         }
 
-        let autoStatus = config.AUTO_READ_STATUS === 'true' ? '✅ 𝙾𝙽' : '🚫 𝙾𝙵𝙵';
-        let autoVoice = config.AUTO_VOICE === 'true' ? '✅ 𝙾𝙽' : '🚫 𝙾𝙵𝙵';
-        let autoTyping = config.AUTO_TYPING === 'true' ? '✅ 𝙾𝙽' : '🚫 𝙾𝙵𝙵';
-        let autoBio = config.AUTO_BIO === 'true' ? '✅ 𝙾𝙽' : '🚫 𝙾𝙵𝙵';
-        let antilink = config.ANTI_LINK === 'true' ? '✅ 𝙾𝙽' : '🚫 𝙾𝙵𝙵';
-        let antibad = config.ANTI_BAD === 'true' ? '✅ 𝙾𝙽' : '🚫 𝙾𝙵𝙵';
+        let autoStatus = config.AUTO_READ_STATUS === 'true' ? '✅ 𝙾𝙽' : '❌ 𝙾𝙵𝙵';
+        let autoVoice = config.AUTO_VOICE === 'true' ? '✅ 𝙾𝙽' : '❌ 𝙾𝙵𝙵';
+        let autoTyping = config.AUTO_TYPING === 'true' ? '✅ 𝙾𝙽' : '❌ 𝙾𝙵𝙵';
+        let autoBio = config.AUTO_BIO === 'true' ? '✅ 𝙾𝙽' : '❌ 𝙾𝙵𝙵';
+        let antilink = config.ANTI_LINK === 'true' ? '✅ 𝙾𝙽' : '❌ 𝙾𝙵𝙵';
+        let antibad = config.ANTI_BAD === 'true' ? '✅ 𝙾𝙽' : '❌ 𝙾𝙵𝙵';
 
 
         const vv = await conn.sendMessage(from, {
@@ -56,33 +56,33 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ━─≪ ✠ || ✠ ≫─━╮
      🔗  *CUSTOMIZE YOUR SETTINGS* 🛠
     ╰━─≪ ✠ || ✠ ≫─━╯
- *┈━═☆[1]WORK MODE ☆═━┈* ⚙
+ *┈━═☆[1]WORK MODE ☆═━┈* 
      1.1 || *Public Work*
      1.2 || *Private Work*
      1.3 || *Group Only*
      1.4 || *Inbox Only*
 
- *┈━═☆[2] AUTO VOICE ☆═━┈* ⚙
+ *┈━═☆[2] AUTO VOICE ☆═━┈* 
      2.1 || *Auto Voice On*
      2.2 || *Auto Voice Off*
 
-  *┈━═☆[3] AUTO STATUS SEEN ☆═━┈* ⚙
+  *┈━═☆[3] AUTO STATUS SEEN ☆═━┈* 
      3.1 || *welcome On*
      3.2 || *welcome Off*
 
-  *┈━═☆[4] AUTO BIO ☆═━┈* ⚙
+  *┈━═☆[4] AUTO BIO ☆═━┈* 
      4.1 || *Auto Reply On*
      4.2 ||*Auto Reply Off*
 
-   *┈━═☆[5] AUTO NEWS SERVICE ☆═━┈* ⚙
+   *┈━═☆[5] AUTO NEWS SERVICE ☆═━┈* 
      5.1 || *Auto Sticker on*
      5.2 || *Auto Sticker off*
 
-  *┈━═☆[6] AUTO TYPING ☆═━┈* ⚙
+  *┈━═☆[6] AUTO TYPING ☆═━┈* 
      6.1 || *Auto React on*
      6.2 || *Auto React off*
 
- *┈━═☆[7] AUTO COMMAND READ ☆═━┈* ⚙
+ *┈━═☆[7] AUTO COMMAND READ ☆═━┈* 
       7.1 || *Auto Status Send Msg on*
       7.2 || *Auto Status Send Msg off*
 ╰━─≪ ✠ || ✠ ≫─━╯
