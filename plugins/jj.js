@@ -43,7 +43,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 
         const vv = await conn.sendMessage(from, {
-            image: { url: 'https://files.catbox.moe/7exz93.png' },
+            image: { url: 'https://i.imgur.com/eMqGZMd.jpeg' },
             caption: `╭━─≪ ✠ || ✠ ≫─━╮
   🛠 *QUEEN_ISHU BOT SETTINGS* 🛠
 ▄︻┻ ------------| ︻┳═─-
