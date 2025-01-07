@@ -83,7 +83,7 @@ function convertYouTubeLink(_0x20e9bd) {
 }
 cmd(
   {
-    pattern: 'sg',
+    pattern: 'song',
     alias: 'play',
     desc: 'To download songs.',
     react: '\uD83C\uDFB5',
@@ -128,33 +128,33 @@ cmd(
         _0x5b9edc = _0x1c66ee.videos[0],
         _0xeda539 = _0x5b9edc.url
       let _0x4cf7ff =
-        '\n*\u2756𝐇𝐀𝐒𝐇𝐈 𝐘𝐓 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃\u2756*\n\> *\`➤ Title\ :* ' +
+        '\n*\u2756𝐇𝐀𝐒𝐇𝐈 𝐘𝐓 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃\u2756*\n\u274D *ᴛɪᴛʟᴇ :* ' +
         _0x5b9edc.title +
-        '\n\> *\`➤ TIME\ :* ' +
+        '\n\u274D *ᴅᴜʀᴀᴛɪᴏɴ :* ' +
         _0x5b9edc.timestamp +
-        '\n\> *\`➤ Views\:* ' +
+        '\n\u274D *ᴠɪᴇᴡꜱ :* ' +
         _0x5b9edc.views +
-        '\n\> *\`➤ AGO\ :* ' +
+        '\n\u274D *ᴜᴘʟᴏᴀᴅ ᴏɴ :* ' +
         _0x5b9edc.ago +
-        '\n*◄❪ Reply This Message ❫►*\n\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴜᴅɪᴏ \uD83C\uDFA7*\n\n*1*     \u2503  *ᴀᴜᴅɪᴏ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴅᴏᴄᴜᴍᴇɴᴛ \uD83D\uDCC1*\n\n*2*     \u2503  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n\n> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*\n'
+        '\n*ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴛᴏ*\n*ᴅᴏᴡɴʟᴏᴀᴅ ꜰʀᴏᴍᴀᴛ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴜᴅɪᴏ \uD83C\uDFA7*\n\n*1*     \u2503  *ᴀᴜᴅɪᴏ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴅᴏᴄᴜᴍᴇɴᴛ \uD83D\uDCC1*\n\n*2*     \u2503  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n\n> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*\n'
       const _0x232387 = await _0x260a13.sendMessage(
           _0x369710,
           {
             image: { url: _0x5b9edc.thumbnail },
             caption: _0x4cf7ff,
             contextInfo: {
-              mentionedJid: [''],
+              mentionedJid: ['94760698006@s.whatsapp.net'],
               groupMentions: [],
               forwardingScore: 1,
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterJid: '',
-                newsletterName: '*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*',
+                newsletterName: '⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛',
                 serverMessageId: 999,
               },
               externalAdReply: {
-                title: '',
-                body: '',
+                title: '⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛',
+                body: '⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛',
                 mediaType: 1,
                 sourceUrl: '',
                 thumbnailUrl: '',
@@ -210,8 +210,8 @@ cmd(
                     serverMessageId: 999,
                   },
                   externalAdReply: {
-                    title: '',
-                    body: '',
+                    title: '⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛',
+                    body: '⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛',
                     mediaType: 1,
                     sourceUrl: _0x5b9edc.url,
                     thumbnailUrl: _0x5b9edc.thumbnail,
@@ -243,20 +243,21 @@ cmd(
                   document: { url: _0x26d759.download.url },
                   mimetype: 'audio/mp3',
                   fileName: _0x5b9edc.title + '.mp3',
-                  caption:'\n**⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛**\n ',
+                  caption:
+                    '\n*\xA9 ⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔*\n ',
                   contextInfo: {
-                    mentionedJid: [''],
+                    mentionedJid: ['94760698006@s.whatsapp.net'],
                     groupMentions: [],
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                       newsletterJid: '',
-                      newsletterName: '',
+                      newsletterName: '*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*',
                       serverMessageId: 999,
                     },
                     externalAdReply: {
-                      title: '',
-                      body: '',
+                      title: '*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*',
+                      body: '*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*',
                       mediaType: 1,
                       sourceUrl: _0x5b9edc.url,
                       thumbnailUrl: _0x5b9edc.thumbnail,
@@ -286,7 +287,7 @@ cmd(
 )
 cmd(
   {
-    pattern: 'videotdtdt',
+    pattern: 'vidhtgfhdfhgfdhfdeo',
     desc: 'To download videos.',
     react: '\uD83C\uDFA5',
     category: 'download',
