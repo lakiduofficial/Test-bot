@@ -22,7 +22,7 @@ cmd(
     try {
       if (!_0x19515d) {
         return await _0x54059c(
-          '*Please provide a search query! (e.g., Deadpool)*'
+          '*​🇵​​🇱​​🇪​​🇦​​🇸​​🇪​ ​🇸​​🇪​​🇳​​🇩​ ​🇲​​🇴​​🇻​​🇮​​🇪​ ​🇳​​🇦​​🇲​​🇪​!😔*'
         )
       }
       var _0x3904c9 = await sinhalaSub()
@@ -32,7 +32,7 @@ cmd(
         return await _0x54059c('No results found for: ' + _0x19515d)
       }
       let _0x49c238 =
-        '\uD83D\uDD22 *ℙ𝕝𝕖𝕒𝕤𝕖 𝕣𝕖𝕡𝕝𝕪 𝕨𝕚𝕥𝕙 𝕥𝕙𝕖 𝕟𝕦𝕞𝕓𝕖𝕣 𝕪𝕠𝕦 𝕨𝕒𝕟𝕥 𝕥𝕠 𝕤𝕖𝕝𝕖𝕔𝕥*\n\n\uD83D\uDCFD️ *Search Results for* "' +
+        '\uD83D\uDD22 *ℙ𝕝𝕖𝕒𝕤𝕖 𝕣𝕖𝕡𝕝𝕪 𝕨𝕚𝕥𝕙 𝕥𝕙𝕖 𝕟𝕦𝕞𝕓𝕖𝕣 𝕪𝕠𝕦 𝕨𝕒𝕟𝕥 𝕥𝕠 𝕤𝕖𝕝𝕖𝕔𝕥*\n\n\uD83D\uDCFD️ *𝗦𝗘𝗔𝗥𝗖𝗛 𝗥𝗘𝗦𝗨𝗟𝗧𝗦 𝗙𝗢𝗥* "' +
         _0x19515d +
         '":\n\n'
       _0x1ff073.forEach((_0x45ce4b, _0xee64bc) => {
@@ -56,11 +56,11 @@ cmd(
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterJid: '',
-                newsletterName: '𝓗𝓐𝓢𝓗𝓘 𝓜𝓓 \u273B',
+                newsletterName: '𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 \u273B',
                 serverMessageId: 999,
               },
               externalAdReply: {
-                title: '𝓗𝓐𝓢𝓗𝓘 𝓜𝓓',
+                title: '𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈',
                 body: '𝐋𝐀𝐊𝐒𝐈𝐃𝐔 𝐍𝐈𝐌𝐒𝐀𝐑𝐀',
                 mediaType: 1,
                 sourceUrl: 'https://github.com/laksidunimsara1',
@@ -105,10 +105,10 @@ cmd(
                 return await _0x54059c('No PixelDrain links found.')
               }
               let _0x47cefa =
-                '\uD83D\uDD22 *Please reply with the number you want to select*\n\n\uD83C\uDFA5 *' +
+                '\uD83D\uDD22 *𝙋𝙡𝙚𝙖𝙨𝙚 𝙧𝙚𝙥𝙡𝙮 𝙬𝙞𝙩𝙝 𝙩𝙝𝙚 𝙣𝙪𝙢𝙗𝙚𝙧 𝙮𝙤𝙪 𝙬𝙖𝙣𝙩 𝙩𝙤 𝙨𝙚𝙡𝙚𝙘𝙩*\n\n\uD83C\uDFA5 *' +
                 _0x2ca307.title +
                 '*\n\n'
-              _0x47cefa += '*Available PixelDrain Download Links:*\n'
+              _0x47cefa += '*📽️𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐎𝐕𝐈𝐄 𝐋𝐈𝐍𝐊📽️:*\n'
               _0x33cde5.forEach((_0x5991e7, _0x287db8) => {
                 _0x47cefa +=
                   '*' +
