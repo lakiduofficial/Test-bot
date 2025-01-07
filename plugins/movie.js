@@ -89,7 +89,7 @@ cmd(
         _0x1f30da,
         {
           image: { url: _0x5bf460 },
-          caption: _0x47d128 + '\n> POWERD BY QUEEN ISHU MD',
+          caption: _0x47d128 + '\n> 𝓒𝓡𝓔𝓐𝓣𝓔𝓓 𝓑𝓨 𝓛𝓐𝓚𝓢𝓘𝓓𝓤',
         },
         { quoted: _0x408116 }
       )
