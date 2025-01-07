@@ -6,8 +6,8 @@ const axios = require('axios');
 const apilink = 'https://saviya-kolla-api.koyeb.app/news/siyatha'; 
 
 cmd({
-    pattern: "derananews",
-    alias: ["derana", "news3"],
+    pattern: "siyatha",
+    alias: ["siyatha", "nhjhhh3"],
     react: "📑",
     desc: "",
     category: "news",
