@@ -65,7 +65,7 @@ cmd(
                 mediaType: 1,
                 sourceUrl: 'https://github.com/laksidunimsara1',
                 thumbnailUrl:
-                  'https://raw.githubusercontent.com/tharumin/Alexa_Voice/refs/heads/main/20241214_204755.jpg',
+                  'https://raw.githubusercontent.com/lakiduofficial/laksidu/refs/heads/main/WhatsApp%20Image%202025-01-07%20at%203.55.23%20PM.jpeg',
                 renderLargerThumbnail: false,
                 showAdAttribution: true,
               },
@@ -141,7 +141,7 @@ cmd(
                         mediaType: 1,
                         sourceUrl: 'https://github.com/laksidunimsara1',
                         thumbnailUrl:
-                          'https://raw.githubusercontent.com/tharumin/Alexa_Voice/refs/heads/main/20241214_204755.jpg',
+                          'https://raw.githubusercontent.com/lakiduofficial/laksidu/refs/heads/main/WhatsApp%20Image%202025-01-07%20at%203.55.23%20PM.jpeg',
                         renderLargerThumbnail: false,
                         showAdAttribution: true,
                       },
@@ -197,7 +197,7 @@ cmd(
                             mediaType: 1,
                             sourceUrl: 'https://github.com/laksidunimsara1',
                             thumbnailUrl:
-                              'https://raw.githubusercontent.com/tharumin/Alexa_Voice/refs/heads/main/20241214_204755.jpg',
+                              'https://raw.githubusercontent.com/lakiduofficial/laksidu/refs/heads/main/WhatsApp%20Image%202025-01-07%20at%203.55.23%20PM.jpeg',
                             renderLargerThumbnail: false,
                             showAdAttribution: true,
                           },
@@ -241,7 +241,7 @@ cmd(
                             mediaType: 1,
                             sourceUrl: 'https://github.com/laksidunimsara1',
                             thumbnailUrl:
-                              'https://raw.githubusercontent.com/tharumin/Alexa_Voice/refs/heads/main/20241214_204755.jpg',
+                              'https://raw.githubusercontent.com/lakiduofficial/laksidu/refs/heads/main/WhatsApp%20Image%202025-01-07%20at%203.55.23%20PM.jpeg',
                             renderLargerThumbnail: false,
                             showAdAttribution: true,
                           },
@@ -370,7 +370,7 @@ cmd(
                 mediaType: 1,
                 sourceUrl: 'https://github.com/laksidunimsara1',
                 thumbnailUrl:
-                  'https://raw.githubusercontent.com/tharumin/Alexa_Voice/refs/heads/main/20241214_204755.jpg',
+                  'https://raw.githubusercontent.com/lakiduofficial/laksidu/refs/heads/main/WhatsApp%20Image%202025-01-07%20at%203.55.23%20PM.jpeg',
                 renderLargerThumbnail: false,
                 showAdAttribution: true,
               },
@@ -451,7 +451,7 @@ cmd(
                             mediaType: 1,
                             sourceUrl: 'https://github.com/laksidunimsara1',
                             thumbnailUrl:
-                              'https://raw.githubusercontent.com/tharumin/Alexa_Voice/refs/heads/main/20241214_204755.jpg',
+                              'https://raw.githubusercontent.com/lakiduofficial/laksidu/refs/heads/main/WhatsApp%20Image%202025-01-07%20at%203.55.23%20PM.jpeg',
                             renderLargerThumbnail: false,
                             showAdAttribution: true,
                           },
@@ -600,7 +600,7 @@ cmd(
                     document: { url: _0x3facb6 },
                     mimetype: 'application/zip',
                     fileName: _0x33ec54.title + '.zip',
-                    caption: '*' + _0x33ec54.title + '*\n\n> Lααɾα-ᴍᴅ \u273B',
+                    caption: '*' + _0x33ec54.title + '*\n\n> 𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 \u273B',
                     contextInfo: {
                       mentionedJid: ['94760698006@s.whatsapp.net'],
                       groupMentions: [],
@@ -617,7 +617,7 @@ cmd(
                         mediaType: 1,
                         sourceUrl: 'https://github.com/laksidunimsara1',
                         thumbnailUrl:
-                          'https://raw.githubusercontent.com/tharumin/Alexa_Voice/refs/heads/main/20241214_204755.jpg',
+                          'https://raw.githubusercontent.com/lakiduofficial/laksidu/refs/heads/main/WhatsApp%20Image%202025-01-07%20at%203.55.23%20PM.jpeg',
                         renderLargerThumbnail: false,
                         showAdAttribution: true,
                       },
