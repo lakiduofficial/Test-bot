@@ -61,7 +61,7 @@ cmd(
               },
               externalAdReply: {
                 title: '𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈',
-                body: '𝐋𝐀𝐊𝐒𝐈𝐃𝐔 𝐍𝐈𝐌𝐒𝐀𝐑𝐀',
+                body: '*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*',
                 mediaType: 1,
                 sourceUrl: 'https://github.com/laksidunimsara1',
                 thumbnailUrl:
@@ -137,7 +137,7 @@ cmd(
                       },
                       externalAdReply: {
                         title: '𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈',
-                        body: '𝐋𝐀𝐊𝐒𝐈𝐃𝐔 𝐍𝐈𝐌𝐒𝐀𝐑𝐀',
+                        body: '*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*',
                         mediaType: 1,
                         sourceUrl: 'https://github.com/laksidunimsara1',
                         thumbnailUrl:
@@ -193,7 +193,7 @@ cmd(
                           },
                           externalAdReply: {
                             title: '𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈',
-                            body: '𝐋𝐀𝐊𝐒𝐈𝐃𝐔 𝐍𝐈𝐌𝐒𝐀𝐑𝐀',
+                            body: '*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*',
                             mediaType: 1,
                             sourceUrl: 'https://github.com/laksidunimsara1',
                             thumbnailUrl:
@@ -237,7 +237,7 @@ cmd(
                           },
                           externalAdReply: {
                             title: '𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈',
-                            body: '𝐋𝐀𝐊𝐒𝐈𝐃𝐔 𝐍𝐈𝐌𝐒𝐀𝐑𝐀',
+                            body: '*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*',
                             mediaType: 1,
                             sourceUrl: 'https://github.com/laksidunimsara1',
                             thumbnailUrl:
@@ -366,7 +366,7 @@ cmd(
               },
               externalAdReply: {
                 title: '𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈',
-                body: '𝐋𝐀𝐊𝐒𝐈𝐃𝐔 𝐍𝐈𝐌𝐒𝐀𝐑𝐀',
+                body: '*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*',
                 mediaType: 1,
                 sourceUrl: 'https://github.com/laksidunimsara1',
                 thumbnailUrl:
@@ -447,7 +447,7 @@ cmd(
                           },
                           externalAdReply: {
                             title: '𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈',
-                            body: '𝐋𝐀𝐊𝐒𝐈𝐃𝐔 𝐍𝐈𝐌𝐒𝐀𝐑𝐀',
+                            body: '*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*',
                             mediaType: 1,
                             sourceUrl: 'https://github.com/laksidunimsara1',
                             thumbnailUrl:
@@ -613,7 +613,7 @@ cmd(
                       },
                       externalAdReply: {
                         title: '𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈',
-                        body: '𝐋𝐀𝐊𝐒𝐈𝐃𝐔 𝐍𝐈𝐌𝐒𝐀𝐑𝐀',
+                        body: '*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*',
                         mediaType: 1,
                         sourceUrl: 'https://github.com/laksidunimsara1',
                         thumbnailUrl:
