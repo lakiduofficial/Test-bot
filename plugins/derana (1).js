@@ -22,14 +22,14 @@ async (conn, mek, m, { from, quoted }) => {
 
         // Construct the message
         const msg = `
-           📑 *﻿ＤＥＲＡＮＡ　ＮＥＷＳ* 📑
+           📑 DERANA NEWS 📑
 
 * Title - ${news.title || 'Not available'}
 * News - ${news.description || 'Not available'}
 * Date - ${news.time || 'Not available'}
 * Link - ${news.new_url || 'Not available'}
 
-*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*
+⚡  𝐏𝐎𝐖𝐄𝐑𝐃 𝐁𝐘 𝐋𝐀𝐊𝐒𝐈𝐃𝐔
         `;
 
         // Send the news as a message
