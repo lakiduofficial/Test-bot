@@ -22,7 +22,7 @@ async (conn, mek, m, { from, quoted }) => {
 
         // Construct the message
         const msg = `
-           📑 DERANA NEWS 📑
+           📑 *﻿ＤＥＲＡＮＡ　ＮＥＷＳ* 📑
 
 * Title - ${news.title || 'Not available'}
 * News - ${news.description || 'Not available'}
