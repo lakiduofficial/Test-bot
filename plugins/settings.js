@@ -149,7 +149,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     reply(".autoreply true");
                     break;
                     case '5.2': 
-                    reply(".autorepy false");
+                    reply(".autoreply false");
                     break;
                     case '6.1':      
                         reply(".welcome true");
