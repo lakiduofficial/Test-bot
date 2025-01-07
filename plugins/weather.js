@@ -48,7 +48,7 @@ cmd(
           _0x5f1df1.wind.speed +
           ' m/s\n\uD83D\uDC9B *Pressure*: ' +
           _0x5f1df1.main.pressure +
-          ' hPa\n\n*QUEEN-ISHU-MD*\n'
+          ' hPa\n\n*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*\n'
       return _0x1704ca(_0x474546)
     } catch (_0x18c9a9) {
       console.log(_0x18c9a9)
