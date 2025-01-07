@@ -39,12 +39,12 @@ cmd({
         data.results.forEach(video => {
             const views = video.views ? video.views.toLocaleString() : "N/A"; 
             videoInfo += `┌──────────────────────\n`;
-            videoInfo += `├✨ *Title:* ${video.title || 'N/A'}\n`;
-            videoInfo += `├🕒 *Duration:* ${video.duration?.timestamp || 'N/A'}\n`;
-            videoInfo += `├👀 *Views:* ${views}\n`;
-            videoInfo += `├📆 *Uploaded:* ${video.ago || 'N/A'}\n`;
-            videoInfo += `├🔗 *Video URL:* ${video.url || 'N/A'}\n`;
-            videoInfo += `├📸 *Author:* ${video.author?.name || 'N/A'} (${video.author?.url || 'N/A'})\n`;
+            videoInfo += `├✨ `*Title:*` ${video.title || 'N/A'}\n`;
+            videoInfo += `├🕒 `*Duration:*` ${video.duration?.timestamp || 'N/A'}\n`;
+            videoInfo += `├👀 `*Views:*` ${views}\n`;
+            videoInfo += `├📆 `*Uploaded:*` ${video.ago || 'N/A'}\n`;
+            videoInfo += `├🔗 `*Video URL:*` ${video.url || 'N/A'}\n`;
+            videoInfo += `├📸 `*Author:*` ${video.author?.name || 'N/A'} (${video.author?.url || 'N/A'})\n`;
             videoInfo += `└──────────────────────\n\n`;
         });
 
