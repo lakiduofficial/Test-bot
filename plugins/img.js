@@ -22,7 +22,7 @@ cmd(
         return _0x2ac5cb('*Please provide search keywords for the image.*')
       }
       _0x2ac5cb(
-        '*\uD83D\uDD0D 𝐐𝐔𝐄𝐄𝐍-𝐈𝐒𝐇𝐔-𝐌𝐃-𝐈𝐌𝐀𝐆𝐄\uD83C\uDF38 - ' +
+        '*\uD83D\uDD0D 𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃-𝐈𝐌𝐀𝐆𝐄\uD83C\uDF38 - ' +
           _0x3207b0 +
           '...*'
       )
@@ -50,7 +50,7 @@ cmd(
             {
               image: { url: _0x58b5b7.images_url },
               caption:
-                '*\uD83E\uDD0D𝐐𝐔𝐄𝐄𝐍-𝐈𝐒𝐇𝐔-𝐌𝐃-𝐈𝐌𝐀𝐆𝐄\uD83D\uDD10 - ' +
+                '*\uD83E\uDD0D𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃-𝐈𝐌𝐀𝐆𝐄\uD83D\uDD10 - ' +
                 _0x3207b0 +
                 '*',
             },
