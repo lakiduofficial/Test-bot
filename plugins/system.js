@@ -23,6 +23,8 @@ let status = `*╔══════✮❁•°♛°•❁✮ ══════
 
 *_OWNER:➠_* *LAKSIDU NIMSARA*
 *╚══════✮❁•°❀°•❁✮═══════╝*
+
+> ⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛
 `
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:`${status}`},{quoted:mek})
 
