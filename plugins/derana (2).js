@@ -3,11 +3,11 @@ const { cmd } = require('../command');
 const axios = require('axios');
 
 // API LINK
-const apilink = 'https://dizer-adaderana-news-api.vercel.app/news'; 
+const apilink = 'https://darksadas-yt-sirasa-news.vercel.app/'; 
 
 cmd({
-    pattern: "derananews",
-    alias: ["derana", "news3"],
+    pattern: "sirasa",
+    alias: ["sirasa", "nvd"],
     react: "📑",
     desc: "",
     category: "news",
