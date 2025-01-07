@@ -83,7 +83,7 @@ function convertYouTubeLink(_0x20e9bd) {
 }
 cmd(
   {
-    pattern: 'song',
+    pattern: 'sg',
     alias: 'play',
     desc: 'To download songs.',
     react: '\uD83C\uDFB5',
@@ -286,7 +286,7 @@ cmd(
 )
 cmd(
   {
-    pattern: 'video',
+    pattern: 'videotdtdt',
     desc: 'To download videos.',
     react: '\uD83C\uDFA5',
     category: 'download',
