@@ -128,7 +128,7 @@ cmd(
         _0x5b9edc = _0x1c66ee.videos[0],
         _0xeda539 = _0x5b9edc.url
       let _0x4cf7ff =
-        '\n*🎵 `𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃 𝐘𝐓` 🎵*\n\n\> *➤ `Title` :* ' +
+        '\n*🎵 `𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃 𝐘𝐓`🎵*\n\n\> *➤ `Title` :* ' +
         _0x5b9edc.title +
         '\n\n\> *➤ `TIME` :* ' +
         _0x5b9edc.timestamp +
@@ -157,7 +157,7 @@ cmd(
                 body: '⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛',
                 mediaType: 1,
                 sourceUrl: '',
-                thumbnailUrl: '',
+                thumbnailUrl: 'https://raw.githubusercontent.com/lakiduofficial/laksidu/refs/heads/main/WhatsApp%20Image%202025-01-07%20at%203.55.23%20PM.jpeg',
                 renderLargerThumbnail: false,
                 showAdAttribution: true,
               },
