@@ -41,7 +41,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *➢ 1 Audio*
 *➢ 2 Document*
 ╰────────────────────◉◉➤
-> *⚜️𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 : 𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 𝐍𝐈𝐌𝐒𝐀𝐑𝐀 💛*`;
+> ⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔💛*`;
 
         const vv = await conn.sendMessage(from, { image: { url: data.thumbnail }, caption: desc }, { quoted: mek });
         
@@ -64,7 +64,7 @@ const response = (await axios.get("https://raw.githubusercontent.com/Manul-Ofcx/
     
     const downloadUrl = res.result.dl_link;
 
-await conn.sendMessage(from,{audio:{url: downloadUrl },mimetype:"audio/mpeg",caption :"> *⚜️𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 : 𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 𝐍𝐈𝐌𝐒𝐀𝐑𝐀 💛*"},{quoted:mek})
+await conn.sendMessage(from,{audio:{url: downloadUrl },mimetype:"audio/mpeg",caption :"> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔💛*"},{quoted:mek})
                         break;
                     case '2':               
 const responsex = (await axios.get("https://raw.githubusercontent.com/Manul-Ofcx/DB/refs/heads/main/url.json")).data;
