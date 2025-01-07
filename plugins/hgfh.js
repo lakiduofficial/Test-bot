@@ -128,36 +128,36 @@ cmd(
         _0x5b9edc = _0x1c66ee.videos[0],
         _0xeda539 = _0x5b9edc.url
       let _0x4cf7ff =
-        '\n*\u2756HASHI-MUSIC\u2756*\n\u274D *ᴛɪᴛʟᴇ :* ' +
+        '\n*\u2756𝐇𝐀𝐒𝐇𝐈 𝐘𝐓 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃\u2756*\n\> *\`➤ Title\ :* ' +
         _0x5b9edc.title +
-        '\n\u274D *ᴅᴜʀᴀᴛɪᴏɴ :* ' +
+        '\n\> *\`➤ TIME\ :* ' +
         _0x5b9edc.timestamp +
-        '\n\u274D *ᴠɪᴇᴡꜱ :* ' +
+        '\n\> *\`➤ Views\:* ' +
         _0x5b9edc.views +
-        '\n\u274D *ᴜᴘʟᴏᴀᴅ ᴏɴ :* ' +
+        '\n\> *\`➤ AGO\ :* ' +
         _0x5b9edc.ago +
-        '\n*ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴛᴏ*\n*ᴅᴏᴡɴʟᴏᴀᴅ ꜰʀᴏᴍᴀᴛ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴜᴅɪᴏ \uD83C\uDFA7*\n\n*1*     \u2503  *ᴀᴜᴅɪᴏ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴅᴏᴄᴜᴍᴇɴᴛ \uD83D\uDCC1*\n\n*2*     \u2503  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n\n> *\u27BASILENT-SOBX-MD*\n'
+        '\n*◄❪ Reply This Message ❫►*\n\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴀᴜᴅɪᴏ \uD83C\uDFA7*\n\n*1*     \u2503  *ᴀᴜᴅɪᴏ*\n\n*ᴅᴏᴡɴʟᴏᴀᴅ ᴅᴏᴄᴜᴍᴇɴᴛ \uD83D\uDCC1*\n\n*2*     \u2503  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n\n> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*\n'
       const _0x232387 = await _0x260a13.sendMessage(
           _0x369710,
           {
             image: { url: _0x5b9edc.thumbnail },
             caption: _0x4cf7ff,
             contextInfo: {
-              mentionedJid: ['923096287432@s.whatsapp.net'],
+              mentionedJid: [''],
               groupMentions: [],
               forwardingScore: 1,
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363189714152560@newsletter',
-                newsletterName: '\u2756SILENT-SOBX-MD\u2756',
+                newsletterJid: '',
+                newsletterName: '*⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*',
                 serverMessageId: 999,
               },
               externalAdReply: {
-                title: '\u2756SILENT-SOBX-MD\u2756',
-                body: '\u2756SILENT LOVER432\u2756',
+                title: '',
+                body: '',
                 mediaType: 1,
-                sourceUrl: 'https://github.com/SILENTLOVER40/SILENT-SOBX-MD',
-                thumbnailUrl: 'https://i.ibb.co/mbGXCfd/Manul-Ofc-X.jpg',
+                sourceUrl: '',
+                thumbnailUrl: '',
                 renderLargerThumbnail: false,
                 showAdAttribution: true,
               },
@@ -200,18 +200,18 @@ cmd(
                 audio: { url: _0x573731.download.url },
                 mimetype: 'audio/mpeg',
                 contextInfo: {
-                  mentionedJid: ['923096287432@s.whatsapp.net'],
+                  mentionedJid: [''],
                   groupMentions: [],
                   forwardingScore: 1,
                   isForwarded: true,
                   forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363189714152560@newsletter',
-                    newsletterName: '\u2756SILENT-SOBX-MD\u2756',
+                    newsletterJid: '',
+                    newsletterName: '',
                     serverMessageId: 999,
                   },
                   externalAdReply: {
-                    title: '\u2756SILENT-SOBX-MD\u2756',
-                    body: '\u2756SILENT-SOBX-MD-BOT\u2756',
+                    title: '',
+                    body: '',
                     mediaType: 1,
                     sourceUrl: _0x5b9edc.url,
                     thumbnailUrl: _0x5b9edc.thumbnail,
@@ -243,21 +243,20 @@ cmd(
                   document: { url: _0x26d759.download.url },
                   mimetype: 'audio/mp3',
                   fileName: _0x5b9edc.title + '.mp3',
-                  caption:
-                    '\n*\xA9 ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱɪʟᴇɴᴛ ʟᴏᴠᴇʀ \xB7 \xB7 \xB7\u2074\xB3\xB2*\n ',
+                  caption:'\n**⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛**\n ',
                   contextInfo: {
-                    mentionedJid: ['923096287432@s.whatsapp.net'],
+                    mentionedJid: [''],
                     groupMentions: [],
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                      newsletterJid: '120363189714152560@newsletter',
-                      newsletterName: '\u2756SILENT-SOBX-MD\u2756',
+                      newsletterJid: '',
+                      newsletterName: '',
                       serverMessageId: 999,
                     },
                     externalAdReply: {
-                      title: '\u2756SILENT-SOBX-MD\u2756',
-                      body: '\u2756SILENT LOVER432\u2756',
+                      title: '',
+                      body: '',
                       mediaType: 1,
                       sourceUrl: _0x5b9edc.url,
                       thumbnailUrl: _0x5b9edc.thumbnail,
