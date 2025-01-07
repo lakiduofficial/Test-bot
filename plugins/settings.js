@@ -110,7 +110,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                         reply(".restart");
                         break;
                     case '1.2':               
-                        reply(".mode privet");
+                        reply(".mode private");
                         reply(".restart");
                         break;
                     case '1.3':               
