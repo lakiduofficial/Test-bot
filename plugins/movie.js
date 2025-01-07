@@ -80,7 +80,7 @@ cmd(
           _0x34e304.Awards +
           '\n*\u27A4\uD83C\uDF1Fɪᴍᴅʙ ʀᴀᴛɪɴɢ:* ' +
           _0x34e304.imdbRating +
-          '\n\n*\xBB\xBB\u2014\u2014\u2014-QUEEN ISHU MD-\u2014\u2014\u2014-\xAB\xAB*\n',
+          '\n\n*\xBB\xBB\u2014\u2014\u2014-𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃-\u2014\u2014\u2014-\xAB\xAB*\n',
         _0x5bf460 =
           _0x34e304.Poster && _0x34e304.Poster !== 'N/A'
             ? _0x34e304.Poster
@@ -89,7 +89,7 @@ cmd(
         _0x1f30da,
         {
           image: { url: _0x5bf460 },
-          caption: _0x47d128 + '\n> 𝓒𝓡𝓔𝓐𝓣𝓔𝓓 𝓑𝓨 𝓛𝓐𝓚𝓢𝓘𝓓𝓤',
+          caption: _0x47d128 + '\n> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*',
         },
         { quoted: _0x408116 }
       )
