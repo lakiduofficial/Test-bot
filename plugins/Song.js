@@ -24,24 +24,24 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const data = search.videos[0];
         const url = data.url;
 
-        let desc = `*💚🎵 𝐘𝐓 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑 🎵💚*
+        let desc = `*🎵 𝐘𝐓 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑 🎵*
         
-> *\`➤ Title\` :* ${data.title}
+ *\`➤ Title\` :* ${data.title}
 
-> *\`➤ Views\` :* ${data.views}
+ *\`➤ Views\` :* ${data.views}
 
-> *\`➤ DESCRIPTION\`:* ${data.description}
+ *\`➤ DESCRIPTION\`:* ${data.description}
 
-> *\`➤ TIME\`:* ${data.timestamp}
+ *\`➤ TIME\`:* ${data.timestamp}
 
-> *\`➤ AGO\`:* ${data.ago}
+ *\`➤ AGO\`:* ${data.ago}
 
-*◄❪ Reply This Message With Nambars ❫►*
+*◄❪ Reply This Message ❫►*
 ╭────────────────────◉◉➤
 *➢ 1 Audio*
 *➢ 2 Document*
 ╰────────────────────◉◉➤
-> *⚖️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : ©𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 𝐍𝐈𝐌𝐒𝐀𝐑𝐀 💚*`;
+> *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : 𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 𝐍𝐈𝐌𝐒𝐀𝐑𝐀 *`;
 
         const vv = await conn.sendMessage(from, { image: { url: data.thumbnail }, caption: desc }, { quoted: mek });
         
