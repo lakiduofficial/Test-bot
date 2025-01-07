@@ -7,7 +7,7 @@ const axios = require('axios');
 const yts = require("ytsearch-venom")
 
 cmd({
-    pattern: "hhhhhhhhhhhhhhhhh",
+    pattern: "mp",
     desc: 'Download Song / Video',
     use: '.play Title',
     react: "🎧",
