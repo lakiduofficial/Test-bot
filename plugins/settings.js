@@ -61,7 +61,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *║》  1.1 || Public Work*
 *║》  1.2 || Private Work*
 *║》  1.3 || Group Only*
-*║*
+*║》  1.4 || Inbox only*
 *║ *┈━═☆  𝐀𝐔𝐓𝐎 𝐕𝐎𝐈𝐂𝐄 ☆═━┈*
 *║*
 *║》 2.1 || Auto Voice On*
@@ -118,7 +118,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                         reply(".restart");
                       break;
                     case '1.4':     
-                        reply(".update MODE:inbox");
+                        reply(".mode inbox");
                         reply(".restart");
                       break;
                     case '2.1':     
