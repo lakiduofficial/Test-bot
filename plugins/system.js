@@ -15,7 +15,7 @@ try{
 let status = `*╔══════✮❁•°♛°•❁✮ ══════╗*
 *💥𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃 𝐒𝐘𝐒𝐓𝐄𝐑𝐌💥*
 
-`_UPTIME:➠_*  ${runtime(process.uptime())}
+*_UPTIME:➠_*  ${runtime(process.uptime())}
 
 *_RAM USAGE:➠_* ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 
