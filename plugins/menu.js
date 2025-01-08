@@ -36,7 +36,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 *┕ 🔢𝐑𝐞𝐩𝐥𝐲 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐧𝐮𝐦𝐛𝐞𝐫 𝐲𝐨𝐮 𝐰𝐚𝐧𝐭. ʕʘ̅͜ʘ̅ʔ*
 
-> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*`;
+> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`;
 
         const vv = await conn.sendMessage(from, { image: { url: "https://i.imgur.com/HleJrGN.jpeg"}, caption: desc }, { quoted: mek });
 
@@ -57,7 +57,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 ⭓ *Total Commands List OWNER: 1*
 
-*©QUEEN SACHIYA MD CREATE BY SACHINTHA PRASHANッ*`);
+> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '2':               
                         reply(`*◈╾──────CONVERT COMMAND LIST──────╼◈*
@@ -68,7 +68,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 ⭓ *Total Commands List CONVERT: 1*
 
-*©QUEEN SACHIYA MD CREATE BY SACHINTHA PRASHANッ*`);
+> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '3':               
                         reply(`*◈╾──────AI COMMAND LIST──────╼◈*
@@ -79,7 +79,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 ⭓ *Total Commands List AI: 1*
 
-*©QUEEN SACHIYA MD CREATE BY SACHINTHA PRASHANッ*`);
+> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '4':               
                         reply(`*◈╾──────SEARCH COMMAND LIST──────╼◈*
@@ -93,7 +93,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 ⭓ *Total Commands List SEARCH: 2*
 
-*©QUEEN SACHIYA MD CREATE BY SACHINTHA PRASHANッ*`);
+> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '5':               
                         reply(`*◈╾──────DOWNLOAD COMMAND LIST──────╼◈*
@@ -143,7 +143,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 ⭓ *Total Commands List DOWNLOAD: 14*
 
-*©QUEEN SCHIYA MD CREATE BY SACHINTHA PRASHANッ*`);
+> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '6':               
                         reply(`*◈╾──────MAIN COMMAND LIST──────╼◈*
@@ -175,7 +175,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 ⭓ *Total Commands List MAIN: 8*
 
-*©QUEEN SCHIYA MD CREATE BY SACHINTHA PRASHANッ*`);
+> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '7':               
                         reply(`*◈╾──────GROUP COMMAND LIST──────╼◈*
@@ -216,7 +216,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 ⭓ *Total Commands List GROUP: 11*
 
-*©QUEEN SACHIYA MD CREATE BY SACHINTHA PRASHANッ*`);
+> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                        break;
                     case '8':               
                         reply(`*◈╾──────FUN COMMAND LIST──────╼◈*
@@ -236,7 +236,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 ⭓ *Total Commands List FUN: 4*
 
-*©QUEEN SACHIYA MD CREATE BY SACHINTHA PRASHANッ*`);
+> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
 
                         break;
                     case '10':               
@@ -254,7 +254,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 ⭓ *Total Commands List OTHER: 3*
 
-*©QUEEN SACHIYA MD CREATE BY SACHINTHA PRASHANッ*`);
+> *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
 
 
                         break;
