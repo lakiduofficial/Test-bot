@@ -24,8 +24,11 @@
 
 const wordInfo = `
 📚 *Word*: ${definitionData.word}
+
 🔍 *Definition*: ${definition}
+
 📝 *Example*: ${example}
+
 🔗 *Synonyms*: ${synonyms}
 
 > ⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛`;
