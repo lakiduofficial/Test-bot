@@ -13,15 +13,15 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let status = `*╔══════✮❁•°♛°•❁✮ ══════╗*
-*𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃 𝐒𝐘𝐒𝐓𝐄𝐑𝐌↷*
+*💥𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃 𝐒𝐘𝐒𝐓𝐄𝐑𝐌💥*
 
-*_UPTIME:➠_*  ${runtime(process.uptime())}
+`_UPTIME:➠_*  ${runtime(process.uptime())}
 
 *_RAM USAGE:➠_* ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 
 *_HOSTNAME:➠_* ${os.hostname()}
 
-*_OWNER:➠_* *LAKSIDU NIMSARA*
+*_OWNER:➠_* *®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*
 *╚══════✮❁•°❀°•❁✮═══════╝*
 
 > ⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛
