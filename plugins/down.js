@@ -1434,7 +1434,7 @@ cmd(
             mimetype: _0x5736f7.data.result.mimetype,
             fileName: _0x5736f7.data.result.fileName,
             caption:
-              '*\xA9 *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛* \xB7 \xB7 \xB7\u2078\u2078\u2077*\n\n> 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃 \u273B',
+              '\xA9 *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 💛*\n\n> 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃',
           },
           { quoted: _0x5afcc4 }
         ))
