@@ -63,7 +63,7 @@ cmd(
       return await _0x288b2a.sendMessage(
         _0x20b585,
         {
-          text: '*Group Admins:*\n\n' + _0x1d4499,
+          text: '*𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐄𝐍𝐓𝐈𝐎𝐍𝐈𝐍𝐆:*\n\n' + _0x1d4499,
           mentions: _0x2aa7e3.participants
             .filter(
               (_0x32408a) =>
@@ -461,7 +461,7 @@ cmd(
       return await _0x2d3b80.sendMessage(
         _0x1cacb0,
         {
-          text: 'Mentioning everyone:\n\n' + _0x5beb5b,
+          text: '𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐄𝐍𝐓𝐈𝐎𝐍𝐈𝐍𝐆:\n\n' + _0x5beb5b,
           mentions: _0xbd4479,
         },
         { quoted: _0x49f488 }
