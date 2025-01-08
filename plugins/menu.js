@@ -49,7 +49,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             if (msg.message.extendedTextMessage.contextInfo && msg.message.extendedTextMessage.contextInfo.stanzaId === vv.key.id) {
                 switch (selectedOption) {
                     case '1':
-                        reply(`*◈╾──────OWNER COMMAND LIST──────╼◈*
+                        reply(`*❒⁠⁠⁠⁠ 👨‍💻 OWNER-CMD 👨‍💻 ❒*
 
 ╭────────●●►
 │ • *restart* 
@@ -60,7 +60,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '2':               
-                        reply(`*◈╾──────CONVERT COMMAND LIST──────╼◈*
+                        reply(`*❒🎡 CONVERTER-CMD 🎡❒*
 
 ╭────────●●►
 │ • *convert* 
@@ -71,7 +71,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '3':               
-                        reply(`*◈╾──────AI COMMAND LIST──────╼◈*
+                        reply(`*❒⁠⁠⁠⁠ 🧠 AI-CMD 🧠 ❒⁠⁠⁠⁠*
 
 ╭────────●●►
 │ • *ai* 
@@ -82,7 +82,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '4':               
-                        reply(`*◈╾──────SEARCH COMMAND LIST──────╼◈*
+                        reply(`*❒⁠⁠⁠⁠ 🔎 SEARCH-CMD 🔍 ❒⁠⁠⁠⁠ *
 
 ╭────────●●►
 │ • *yts* 
@@ -96,7 +96,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '5':               
-                        reply(`*◈╾──────DOWNLOAD COMMAND LIST──────╼◈*
+                        reply(`*❒⁠⁠⁠⁠ 📥 DOWNLOADER-CMD 📥 ❒*
 
 ╭────────●●►
 │ • *apk* 
@@ -178,7 +178,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '7':               
-                        reply(`*◈╾──────GROUP COMMAND LIST──────╼◈*
+                        reply(`❒⁠⁠⁠⁠ 👥 GROUP-CMD 👥 ❒⁠⁠⁠⁠ *
 
 ╭────────●●►
 │ • *promote* 
@@ -240,7 +240,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
                         break;
                     case '10':               
-                        reply(`*◈╾──────OTHER COMMAND LIST──────╼◈*
+                        reply(`*❒⁠⁠⁠⁠ 🌐 OTHER-CMD 🌐 ❒⁠⁠⁠⁠ *
 
 ╭────────●●►
 │ • *githubstalk* 
