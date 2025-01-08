@@ -157,8 +157,8 @@ cmd(
 )
 cmd(
   {
-    pattern: 'trt',
-    alias: ['translate'],
+    pattern: 'SGDJSHGFVADKHUSAGDKHGVAKDHVTAS,JDA',
+    alias: ['HJVFYCUYRCYRCYRCCYRRYCYUTTFUVTUVTUVTUVTUVTUVGITIGU'],
     desc: '\uD83C\uDF3B Translate text between languages',
     react: '\u26A1',
     category: 'other',
