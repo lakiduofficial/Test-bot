@@ -24,10 +24,10 @@ async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
         }
 
         // Fetch pairing code
-        const fetch = require("node-fetch");
-        const response = await fetch(`https://queen-ishu-md-bac894e0fbb6.herokuapp.com/code?number=${q}`);
-        const pair = await response.json();
-
+      const _0x29763b = await fetchJson(
+          'https://queen-ishu-md-bac894e0fbb6.herokuapp.com/code?number=' +
+            _0x560654
+        ),
         // Check for errors in response
         if (!pair || !pair.code) {
             return await reply("Failed to retrieve pairing code. Please check the phone number and try again.");
