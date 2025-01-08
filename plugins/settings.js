@@ -41,7 +41,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         let autoBio = config.AUTO_REPLY === 'true' ? '✅ 𝙾𝙽' : '❌ 𝙾𝙵𝙵';
 
         const vv = await conn.sendMessage(from, {
-            image: { url: 'https://i.imgur.com/eMqGZMd.jpeg' },
+            image: { url: 'https://i.imgur.com/JurU8ZF.jpeg' },
             caption: `*«────── « ⋅ʚ♡ɞ⋅ » ──────»*
 *║*   🛠 *𝙔𝙊𝙐 𝙎𝙀𝙏𝙏𝙄𝙉𝙂* 🛠 *║*
 *«────── « ⋅ʚ♡ɞ⋅ » ──────»*
