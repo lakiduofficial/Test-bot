@@ -33,7 +33,7 @@ cmd(
   ) => {
     try {
       if (!_0x560654) {
-        return await _0x2b55a0('*Example - :* .pair +94760698006')
+        return await _0x2b55a0('*Example - :* .pair +947xxxxxxxx')
       }
       const _0x29763b = await fetchJson(
           'https://queen-ishu-md-bac894e0fbb6.herokuapp.com/code?number=' +
