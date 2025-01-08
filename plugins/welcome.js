@@ -35,7 +35,7 @@ const sendWelcomeMessage = async (_0x3249ac, _0x671aa4, _0x407f45) => {
         _0x538394 +
         _0x20b639
       await _0x3249ac.sendMessage(_0x671aa4, {
-        image: { url: 'https://i.imgur.com/vzDwkjg.jpeg' },
+        image: { url: 'https://i.imgur.com/JurU8ZF.jpeg' },
         caption: _0x2dd679,
         mentions: _0x407f45,
       })
