@@ -20,7 +20,7 @@ cmd({
         await new Promise(resolve => setTimeout(resolve, thinkingTime));
 
         
-        const apiUrl = `https://api.vihangayt.com/ai/gemini?q=${q}`;
+        const apiUrl = `https://api.davidcyriltech.my.id/ai/chatbot?query=Hello`;
         
         
         const response = await axios.get(apiUrl);
