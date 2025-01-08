@@ -20,7 +20,7 @@ cmd({
         await new Promise(resolve => setTimeout(resolve, thinkingTime));
 
         
-        const apiUrl = `https://saviya-kolla-api.koyeb.app/ai/gpt?query=${encodeURIComponent(q)}`;
+        const apiUrl = `https://api.vihangayt.com/ai/gemini?q=${q}`;
         
         
         const response = await axios.get(apiUrl);
