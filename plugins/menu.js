@@ -51,11 +51,22 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     case '1':
                         reply(`*❒⁠⁠⁠⁠ 👨‍💻 OWNER-CMD 👨‍💻 ❒*
 
-╭────────●●►
-│ • *restart* 
-╰────────────────────●●►
 
-⭓ *Total Commands List OWNER: 1*
+╭────────●●►
+│ 💥 restart 
+╰────────────────────●●►
+╭────────●●►
+│ 💥 setting 
+╰────────────────────●●►
+╭────────●●►
+│ 💥 mysetting 
+╰────────────────────●●►
+╭────────●●►
+│ 💥 block 
+╰────────────────────●●►
+╭────────●●►
+│ 💥 unblock 
+╰────────────────────●●►
 
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
@@ -63,10 +74,11 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                         reply(`*❒🎡 CONVERTER-CMD 🎡❒*
 
 ╭────────●●►
-│ • *convert* 
+│ • *sticker* 
 ╰────────────────────●●►
-
-⭓ *Total Commands List CONVERT: 1*
+╭────────●●►
+│ • *tts* 
+╰────────────────────●●►
 
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
@@ -77,8 +89,6 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 │ • *ai* 
 ╰────────────────────●●►
 
-⭓ *Total Commands List AI: 1*
-
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '4':               
@@ -88,10 +98,23 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 │ • *yts* 
 ╰────────────────────●●►
 ╭────────●●►
-│ • *srepo* 
+│ • *define* 
 ╰────────────────────●●►
-
-⭓ *Total Commands List SEARCH: 2*
+╭────────●●►
+│ • *font* 
+╰────────────────────●●►
+╭────────●●►
+│ • *derana* 
+╰────────────────────●●►
+╭────────●●►
+│ • *weather* 
+╰────────────────────●●►
+╭────────●●►
+│ • *githubstalk* 
+╰────────────────────●●►
+╭────────●●►
+│ • *movie* 
+╰────────────────────●●►
 
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
@@ -117,7 +140,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 │ • *ig* 
 ╰────────────────────●●►
 ╭────────●●►
-│ • *movie* 
+│ • *hashi/sinhalasub* 
 ╰────────────────────●●►
 ╭────────●●►
 │ • *song* 
@@ -129,24 +152,19 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 │ • *play/yt* 
 ╰────────────────────●●►
 ╭────────●●►
-│ • *song2* 
+│ • *ginisisila* 
 ╰────────────────────●●►
 ╭────────●●►
-│ • *video2* 
-╰────────────────────●●►
-╭────────●●►
-│ • *tiktok* 
+│ • *baiscope* 
 ╰────────────────────●●►
 ╭────────●●►
 │ • *img* 
 ╰────────────────────●●►
 
-⭓ *Total Commands List DOWNLOAD: 14*
-
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '6':               
-                        reply(`*◈╾──────MAIN COMMAND LIST──────╼◈*
+                        reply(`*❒⁠⁠⁠⁠ 🗝️ MAIN COMMAND LIST 🗝️⁠⁠❒⁠⁠⁠⁠ *
 
 ╭────────●●►
 │ • *alive* 
@@ -173,18 +191,49 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 │ • *runtime* 
 ╰────────────────────●●►
 
-⭓ *Total Commands List MAIN: 8*
-
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                         break;
                     case '7':               
                         reply(`❒⁠⁠⁠⁠ 👥 GROUP-CMD 👥 ❒⁠⁠⁠⁠ *
 
 ╭────────●●►
-│ • *promote* 
+│ • *closetime* 
 ╰────────────────────●●►
 ╭────────●●►
-│ • *demote* 
+│ • *opentime* 
+╰────────────────────●●►
+╭────────●●►
+│ • *tagall* 
+╰────────────────────●●►
+╭────────●●►
+│ • *admins* 
+╰────────────────────●●►
+╭────────●●►
+│ • *grouplink* 
+╰────────────────────●●►
+╭────────●●►
+│ • *groupdesc* 
+╰────────────────────●●►
+╭────────●●►
+│ • *groupinfo* 
+╰────────────────────●●►
+╭────────●●►
+│ • *gname* 
+╰────────────────────●●►
+╭────────●●►
+│ • *welcome* 
+╰────────────────────●●►
+╭────────●●►
+│ • *setsubject* 
+╰────────────────────●●►
+╭────────●●►
+│ • *request* 
+╰────────────────────●●►
+╭────────●●►
+│ • *accept* 
+╰────────────────────●●►
+╭────────●●►
+│ • *reject* 
 ╰────────────────────●●►
 ╭────────●●►
 │ • *kick* 
@@ -193,28 +242,23 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 │ • *add* 
 ╰────────────────────●●►
 ╭────────●●►
-│ • *admins* 
+│ • *unlock* 
 ╰────────────────────●●►
 ╭────────●●►
-│ • *tagall* 
+│ • *lock* 
+╰────────────────────●●►
+╭────────●●►
+│ • *apove* 
 ╰────────────────────●●►
 ╭────────●●►
 │ • *getpic* 
 ╰────────────────────●●►
 ╭────────●●►
-│ • *setwelcome* 
+│ • *kickall* 
 ╰────────────────────●●►
 ╭────────●●►
-│ • *setgoodbye* 
+│ • *mute* 
 ╰────────────────────●●►
-╭────────●●►
-│ • *admins* 
-╰────────────────────●●►
-╭────────●●►
-│ • *gname* 
-╰────────────────────●●►
-
-⭓ *Total Commands List GROUP: 11*
 
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
                        break;
@@ -222,19 +266,26 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                         reply(`*◈╾──────FUN COMMAND LIST──────╼◈*
 
 ╭────────●●►
-│ • *dog* 
+│ • *loli* 
 ╰────────────────────●●►
 ╭────────●●►
-│ • *fact* 
+│ • *waifu* 
 ╰────────────────────●●►
 ╭────────●●►
 │ • *hack* 
 ╰────────────────────●●►
 ╭────────●●►
-│ • *quote* 
+│ • *maid* 
 ╰────────────────────●●►
-
-⭓ *Total Commands List FUN: 4*
+╭────────●●►
+│ • *awoo* 
+╰────────────────────●●►
+╭────────●●►
+│ • *request* 
+╰────────────────────●●►
+╭────────●●►
+│ • *megumin* 
+╰────────────────────●●►
 
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
 
@@ -243,16 +294,14 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                         reply(`*❒⁠⁠⁠⁠ 🌐 OTHER-CMD 🌐 ❒⁠⁠⁠⁠ *
 
 ╭────────●●►
-│ • *githubstalk* 
+│ • *readmore* 
 ╰────────────────────●●►
 ╭────────●●►
-│ • *trt* 
+│ • *about* 
 ╰────────────────────●●►
 ╭────────●●►
-│ • *weather* 
+│ • *repo* 
 ╰────────────────────●●►
-
-⭓ *Total Commands List OTHER: 3*
 
 > *⚜️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : ®𝐌𝐑 𝐋𝐀𝐊𝐒𝐈𝐃𝐔 🐉*`);
 
